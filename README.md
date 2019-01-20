@@ -1,2 +1,2 @@
-# machine_learning
+# Machine_learning
 Machine Learning scripts
